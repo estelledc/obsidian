@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "0320144f4fa57667",
+    "type": "split",
+    "children": [
+      {
+        "id": "55d15e4a214a5d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5ba1b2679f66cb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 project/diary/20240502_18th_Thu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fef943b6599ea359",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8993b32e144e148",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80cfcf600260555d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0665115109e58760",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1c4517b37f5f055",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0ebe5737940649d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9fb585402b6a630e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b13462b431e71c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93d741d1c53d17d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 project/diary/20240502_18th_Thu.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b9e91f157454a36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 project/diary/20240502_18th_Thu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1ccb469be39ecbe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 project/diary/20240502_18th_Thu.md"
+              }
+            }
+          },
+          {
+            "id": "ea94dbded385257a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f0ebe5737940649d",
+  "lastOpenFiles": [
+    "01 project/diary/20240501_18th_Wed.md",
+    "01 project/diary/20240502_18th_Thu.md",
+    "01 project/learn OB/00 pre.md",
+    "Untitled.canvas",
+    "00 temp/templates/diary_TEMPLATE.md",
+    "00 temp/inbox/Untitled.md",
+    "01 project/learn OB",
+    "01 project/diary/20240501_18周_周三.md",
+    "01 project/diary/2024-05-01.md",
+    "01 project/diary",
+    "00 temp/inbox/未命名 1.md",
+    "00 temp/inbox/未命名.md",
+    "00 temp/templates",
+    "00 注意/inbox/2024-05-01.md",
+    "未命名.canvas",
+    "00 注意/inbox/未命名.md",
+    "00 temp/attachment",
+    "00 temp/inbox",
+    "00 temp",
+    "04 archieve",
+    "03 resource",
+    "02 area",
+    "01 project"
+  ]
+}
