@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240502_18th_Thu.md",
+                "file": "01 project/diary/20240503_18th_Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240502_18th_Thu.md",
+                "file": "01 project/diary/20240503_18th_Fri.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240502_18th_Thu.md",
+                "file": "01 project/diary/20240503_18th_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240502_18th_Thu.md"
+                "file": "01 project/diary/20240503_18th_Fri.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "d5ba1b2679f66cb9",
   "lastOpenFiles": [
-    "01 project/learn OB/00 pre.md",
     "01 project/diary/20240502_18th_Thu.md",
+    "01 project/diary/20240503_18th_Fri.md",
+    "01 project/learn OB/00 pre.md",
     "01 project/diary/20240501_18th_Wed.md",
     "Untitled.canvas",
     "00 temp/templates/diary_TEMPLATE.md",
