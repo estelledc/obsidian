@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240503_18th_Fri.md",
+                "file": "01 project/diary/20240504_18th_Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240503_18th_Fri.md",
+                "file": "01 project/diary/20240504_18th_Sat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240503_18th_Fri.md",
+                "file": "01 project/diary/20240504_18th_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240503_18th_Fri.md"
+                "file": "01 project/diary/20240504_18th_Sat.md"
               }
             }
           },
@@ -154,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80cfcf600260555d",
+  "active": "d5ba1b2679f66cb9",
   "lastOpenFiles": [
-    "Untitled",
+    "01 project/diary/20240501_18th_Wed.md",
     "01 project/diary/20240502_18th_Thu.md",
     "01 project/diary/20240503_18th_Fri.md",
-    "01 project/learn OB/00 pre.md",
-    "01 project/diary/20240501_18th_Wed.md",
-    "Untitled.canvas",
     "00 temp/templates/diary_TEMPLATE.md",
+    "01 project/diary/20240504_18th_Sat.md",
+    "Untitled",
+    "01 project/learn OB/00 pre.md",
+    "Untitled.canvas",
     "00 temp/inbox/Untitled.md",
     "01 project/learn OB",
     "01 project/diary/20240501_18周_周三.md",
@@ -179,7 +180,6 @@
     "00 temp",
     "04 archieve",
     "03 resource",
-    "02 area",
-    "01 project"
+    "02 area"
   ]
 }
