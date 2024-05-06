@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240505_19th_Sun.md",
+                "file": "01 project/diary/20240506_19th_Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240505_19th_Sun.md",
+                "file": "01 project/diary/20240506_19th_Mon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240505_19th_Sun.md",
+                "file": "01 project/diary/20240506_19th_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240505_19th_Sun.md"
+                "file": "01 project/diary/20240506_19th_Mon.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "d5ba1b2679f66cb9",
   "lastOpenFiles": [
-    "01 project/diary/20240504_18th_Sat.md",
     "01 project/diary/20240505_19th_Sun.md",
+    "01 project/diary/20240506_19th_Mon.md",
+    "01 project/diary/20240504_18th_Sat.md",
     "01 project/diary/20240501_18th_Wed.md",
     "01 project/diary/20240502_18th_Thu.md",
     "01 project/diary/20240503_18th_Fri.md",
