@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/use englishi/01.md",
+                "file": "01 project/use English/01.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/use englishi/01.md",
+                "file": "01 project/use English/01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/use englishi/01.md",
+                "file": "01 project/use English/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/use englishi/01.md"
+                "file": "01 project/use English/01.md"
               }
             }
           },
@@ -167,11 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80cfcf600260555d",
+  "active": "9887fc37b79b6670",
   "lastOpenFiles": [
     "01 project/diary/20240506_19th_Mon.md",
-    "01 project/use englishi/01.md",
-    "01 project/use englishi",
+    "01 project/use English/01.md",
+    "01 project/use English",
     "01 project/diary/20240505_19th_Sun.md",
     "01 project/diary/20240504_18th_Sat.md",
     "01 project/diary/20240501_18th_Wed.md",
