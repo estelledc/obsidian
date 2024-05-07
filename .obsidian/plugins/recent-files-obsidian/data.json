@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "diary_TEMPLATE",
+      "path": "00 temp/templates/diary_TEMPLATE.md"
+    },
+    {
       "basename": "20240507_19th_Tue",
       "path": "01 project/diary/20240507_19th_Tue.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "20240503_18th_Fri",
       "path": "01 project/diary/20240503_18th_Fri.md"
-    },
-    {
-      "basename": "diary_TEMPLATE",
-      "path": "00 temp/templates/diary_TEMPLATE.md"
     },
     {
       "basename": "00 pre",

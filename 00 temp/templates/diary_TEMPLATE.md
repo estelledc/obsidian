@@ -7,10 +7,10 @@
 - [ ] 
 
 
-# logs
+# logs & thoughts
 
 
 
 
 
-# thoughts
+
