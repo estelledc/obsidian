@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5ba1b2679f66cb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 project/diary/20240506_19th_Mon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9887fc37b79b6670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04b3666de0b6c62c",
             "type": "leaf",
             "state": {
@@ -43,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -118,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 project/diary/20240508_19th_Wed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 project/diary/20240508_19th_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 project/diary/20240508_19th_Wed.md"
               }
             }
           },
@@ -179,14 +155,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9887fc37b79b6670",
+  "active": "04b3666de0b6c62c",
   "lastOpenFiles": [
-    "00 temp/templates/diary_TEMPLATE.md",
+    "01 project/diary/20240506_19th_Mon.md",
     "01 project/diary/20240508_19th_Wed.md",
+    "README.md",
+    "00 temp/templates/diary_TEMPLATE.md",
     "00 temp/inbox/我为我现在付出的人生有意义吗？.md",
     "01 project/diary/20240507_19th_Tue.md",
     "01 project/use English/01.md",
-    "01 project/diary/20240506_19th_Mon.md",
     "01 project/use English",
     "01 project/diary/20240505_19th_Sun.md",
     "01 project/diary/20240504_18th_Sat.md",
