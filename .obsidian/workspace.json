@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 temp/templates/diary_TEMPLATE.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240508_19th_Wed.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240508_19th_Wed.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240508_19th_Wed.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,11 +179,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04b3666de0b6c62c",
+  "active": "9887fc37b79b6670",
   "lastOpenFiles": [
-    "00 temp/inbox/我为我现在付出的人生有意义吗？.md",
-    "01 project/diary/20240508_19th_Wed.md",
     "00 temp/templates/diary_TEMPLATE.md",
+    "01 project/diary/20240508_19th_Wed.md",
+    "00 temp/inbox/我为我现在付出的人生有意义吗？.md",
     "01 project/diary/20240507_19th_Tue.md",
     "01 project/use English/01.md",
     "01 project/diary/20240506_19th_Mon.md",
