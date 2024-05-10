@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb4133daa4ef8cb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 temp/inbox/快乐和健康.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240509_19th_Thu.md",
+                "file": "00 temp/inbox/快乐和健康.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240509_19th_Thu.md",
+                "file": "00 temp/inbox/快乐和健康.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240509_19th_Thu.md"
+                "file": "00 temp/inbox/快乐和健康.md"
               }
             }
           },
@@ -155,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04b3666de0b6c62c",
+  "active": "fb4133daa4ef8cb1",
   "lastOpenFiles": [
-    "01 project/diary/20240508_19th_Wed.md",
     "01 project/diary/20240509_19th_Thu.md",
+    "00 temp/inbox/快乐和健康.md",
+    "01 project/diary/20240508_19th_Wed.md",
     "01 project/diary/20240506_19th_Mon.md",
     "README.md",
     "00 temp/templates/diary_TEMPLATE.md",
