@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e298a94c62260a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240511_19th_Sat.md",
+                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240511_19th_Sat.md",
+                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240511_19th_Sat.md"
+                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md"
               }
             }
           },
@@ -179,10 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4bcb6196a5c846",
+  "active": "8e298a94c62260a3",
   "lastOpenFiles": [
-    "00 temp/inbox/方向与步骤.md",
     "01 project/diary/20240511_19th_Sat.md",
+    "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
+    "00 temp/inbox/方向与步骤.md",
     "01 project/idea-app/告别尴尬！这款APP让你秒变交流大师🗣️📱.md",
     "01 project/diary/20240510_19th_Fri.md",
     "01 project/DSA复习",
@@ -211,7 +224,6 @@
     "01 project/learn OB/00 pre.md",
     "Untitled.canvas",
     "01 project/learn OB",
-    "01 project/diary/20240501_18周_周三.md",
     "01 project/diary",
     "00 temp/templates",
     "未命名.canvas",
