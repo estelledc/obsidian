@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 temp/inbox/方向与步骤.md",
+                "file": "01 project/diary/20240511_19th_Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 temp/inbox/方向与步骤.md",
+                "file": "01 project/diary/20240511_19th_Sat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 temp/inbox/方向与步骤.md",
+                "file": "01 project/diary/20240511_19th_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 temp/inbox/方向与步骤.md"
+                "file": "01 project/diary/20240511_19th_Sat.md"
               }
             }
           },
@@ -181,8 +181,9 @@
   },
   "active": "aa4bcb6196a5c846",
   "lastOpenFiles": [
-    "01 project/idea-app/告别尴尬！这款APP让你秒变交流大师🗣️📱.md",
     "00 temp/inbox/方向与步骤.md",
+    "01 project/diary/20240511_19th_Sat.md",
+    "01 project/idea-app/告别尴尬！这款APP让你秒变交流大师🗣️📱.md",
     "01 project/diary/20240510_19th_Fri.md",
     "01 project/DSA复习",
     "01 project/idea-app",
@@ -211,7 +212,6 @@
     "Untitled.canvas",
     "01 project/learn OB",
     "01 project/diary/20240501_18周_周三.md",
-    "01 project/diary/2024-05-01.md",
     "01 project/diary",
     "00 temp/templates",
     "未命名.canvas",
