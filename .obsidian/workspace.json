@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "08a54f6f505be8fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 temp/inbox/历史探索者app.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 temp/inbox/帮助失眠者晚上安然入睡的app.md",
+                "file": "00 temp/inbox/历史探索者app.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 temp/inbox/帮助失眠者晚上安然入睡的app.md",
+                "file": "00 temp/inbox/历史探索者app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 temp/inbox/帮助失眠者晚上安然入睡的app.md"
+                "file": "00 temp/inbox/历史探索者app.md"
               }
             }
           },
@@ -203,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b09028209050588b",
+  "active": "08a54f6f505be8fe",
   "lastOpenFiles": [
-    "01 project/diary/20240512_20th_Sun.md",
     "00 temp/inbox/帮助失眠者晚上安然入睡的app.md",
+    "00 temp/inbox/历史探索者app.md",
+    "01 project/diary/20240512_20th_Sun.md",
     "04 archieve/DSA复习/栈的奥秘：生成第二个元素为2的所有可能序列.md",
     "01 project/diary/20240511_19th_Sat.md",
     "00 temp/inbox/方向与步骤.md",
@@ -233,7 +246,6 @@
     "01 project/diary/20240505_19th_Sun.md",
     "01 project/diary/20240504_18th_Sat.md",
     "01 project/diary/20240501_18th_Wed.md",
-    "01 project/diary/20240502_18th_Thu.md",
     "Untitled.canvas",
     "01 project/learn OB",
     "01 project/diary",
