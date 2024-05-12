@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 temp/inbox/帮助所有失眠者晚上安然入睡的app.md",
+                "file": "00 temp/inbox/帮助失眠者晚上安然入睡的app.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 temp/inbox/帮助所有失眠者晚上安然入睡的app.md",
+                "file": "00 temp/inbox/帮助失眠者晚上安然入睡的app.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 temp/inbox/帮助所有失眠者晚上安然入睡的app.md",
+                "file": "00 temp/inbox/帮助失眠者晚上安然入睡的app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 temp/inbox/帮助所有失眠者晚上安然入睡的app.md"
+                "file": "00 temp/inbox/帮助失眠者晚上安然入睡的app.md"
               }
             }
           },
@@ -206,7 +206,7 @@
   "active": "b09028209050588b",
   "lastOpenFiles": [
     "01 project/diary/20240512_20th_Sun.md",
-    "00 temp/inbox/帮助所有失眠者晚上安然入睡的app.md",
+    "00 temp/inbox/帮助失眠者晚上安然入睡的app.md",
     "04 archieve/DSA复习/栈的奥秘：生成第二个元素为2的所有可能序列.md",
     "01 project/diary/20240511_19th_Sat.md",
     "00 temp/inbox/方向与步骤.md",
