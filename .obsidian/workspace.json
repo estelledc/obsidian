@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
+                "file": "01 project/diary/20240512_20th_Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
+                "file": "01 project/diary/20240512_20th_Sun.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
+                "file": "01 project/diary/20240512_20th_Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md"
+                "file": "01 project/diary/20240512_20th_Sun.md"
               }
             }
           },
@@ -193,8 +193,9 @@
   },
   "active": "8e298a94c62260a3",
   "lastOpenFiles": [
-    "01 project/diary/20240511_19th_Sat.md",
     "00 temp/inbox/栈的奥秘：生成第二个元素为2的所有可能序列.md",
+    "01 project/diary/20240512_20th_Sun.md",
+    "01 project/diary/20240511_19th_Sat.md",
     "00 temp/inbox/方向与步骤.md",
     "01 project/idea-app/告别尴尬！这款APP让你秒变交流大师🗣️📱.md",
     "01 project/diary/20240510_19th_Fri.md",
@@ -221,7 +222,6 @@
     "01 project/diary/20240501_18th_Wed.md",
     "01 project/diary/20240502_18th_Thu.md",
     "01 project/diary/20240503_18th_Fri.md",
-    "01 project/learn OB/00 pre.md",
     "Untitled.canvas",
     "01 project/learn OB",
     "01 project/diary",
