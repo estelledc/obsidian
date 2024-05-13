@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9fb585402b6a630e",
@@ -215,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,7 +229,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6d6d031dd0e6b29",
+  "active": "1ccb469be39ecbe3",
   "lastOpenFiles": [
     "00 temp/inbox/关于犯错最好的一点.md",
     "01 project/diary/20240513_20th_Mon.md",
