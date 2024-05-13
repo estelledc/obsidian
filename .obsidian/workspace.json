@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 temp/inbox/关于犯错最好的一点.md",
+                "file": "01 project/diary/20240513_20th_Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 temp/inbox/关于犯错最好的一点.md",
+                "file": "01 project/diary/20240513_20th_Mon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 temp/inbox/关于犯错最好的一点.md",
+                "file": "01 project/diary/20240513_20th_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 temp/inbox/关于犯错最好的一点.md"
+                "file": "01 project/diary/20240513_20th_Mon.md"
               }
             }
           },
@@ -229,8 +229,9 @@
   },
   "active": "f6d6d031dd0e6b29",
   "lastOpenFiles": [
-    "00 temp/inbox/历史探索者app.md",
     "00 temp/inbox/关于犯错最好的一点.md",
+    "01 project/diary/20240513_20th_Mon.md",
+    "00 temp/inbox/历史探索者app.md",
     "00 temp/inbox/失眠app.md",
     "01 project/diary/20240512_20th_Sun.md",
     "04 archieve/DSA复习/栈的奥秘：生成第二个元素为2的所有可能序列.md",
@@ -257,7 +258,6 @@
     "01 project/use English/01.md",
     "01 project/use English",
     "01 project/diary/20240505_19th_Sun.md",
-    "01 project/diary/20240504_18th_Sat.md",
     "Untitled.canvas",
     "01 project/learn OB",
     "01 project/diary",
