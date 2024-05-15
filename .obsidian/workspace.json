@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240514_20th_Tue.md",
+                "file": "01 project/diary/20240515_20th_Wed.md",
                 "mode": "source",
                 "source": false
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240514_20th_Tue.md",
+                "file": "01 project/diary/20240515_20th_Wed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240514_20th_Tue.md",
+                "file": "01 project/diary/20240515_20th_Wed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240514_20th_Tue.md"
+                "file": "01 project/diary/20240515_20th_Wed.md"
               }
             }
           },
@@ -231,8 +231,11 @@
   },
   "active": "f6d6d031dd0e6b29",
   "lastOpenFiles": [
-    "01 project/diary/20240509_19th_Thu.md",
     "01 project/diary/20240514_20th_Tue.md",
+    "01 project/diary/20240515_20th_Wed.md",
+    "00 temp/inbox/第一次冥想日记.md",
+    "00 temp/inbox/如何整理自己的思绪？.md",
+    "01 project/diary/20240509_19th_Thu.md",
     "00 temp/inbox/关于犯错最好的一点.md",
     "01 project/diary/20240513_20th_Mon.md",
     "00 temp/inbox/历史探索者app.md",
@@ -256,9 +259,6 @@
     "01 project/diary/20240506_19th_Mon.md",
     "README.md",
     "00 temp/templates/diary_TEMPLATE.md",
-    "00 temp/inbox/我为我现在付出的人生有意义吗？.md",
-    "01 project/diary/20240507_19th_Tue.md",
-    "01 project/use English/01.md",
     "01 project/use English",
     "Untitled.canvas",
     "01 project/learn OB",
