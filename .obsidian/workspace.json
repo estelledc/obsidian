@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04b3666de0b6c62c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 project/diary/20240509_19th_Thu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb4133daa4ef8cb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 project/idea-app/告别尴尬！这款APP让你秒变交流大师🗣️📱.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa4bcb6196a5c846",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 project/diary/20240511_19th_Sat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e298a94c62260a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 project/diary/20240512_20th_Sun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b09028209050588b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 temp/inbox/失眠app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "08a54f6f505be8fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 temp/inbox/历史探索者app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6d6d031dd0e6b29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 project/diary/20240516_20th_Thu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "79107b3ada3731c6",
             "type": "leaf",
             "state": {
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
