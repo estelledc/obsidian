@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240517_20th_Fri.md",
+                "file": "01 project/diary/20240518_20th_Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240517_20th_Fri.md",
+                "file": "01 project/diary/20240518_20th_Sat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240517_20th_Fri.md",
+                "file": "01 project/diary/20240518_20th_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240517_20th_Fri.md"
+                "file": "01 project/diary/20240518_20th_Sat.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "79107b3ada3731c6",
   "lastOpenFiles": [
-    "00 temp/inbox/比赛守则.md",
     "01 project/diary/20240517_20th_Fri.md",
+    "01 project/diary/20240518_20th_Sat.md",
+    "00 temp/inbox/比赛守则.md",
     "01 project/diary/20240516_20th_Thu.md",
     "Untitled",
     "00 temp/inbox/如何整理自己的思绪？.md",
@@ -185,7 +186,6 @@
     "04 archieve/DSA复习/排序（重点笔记）.md",
     "04 archieve/DSA复习/三种表达式.md",
     "04 archieve/DSA复习/temp如何取？.md",
-    "01 project/diary/20240508_19th_Wed.md",
     "01 project/use English",
     "Untitled.canvas",
     "01 project/learn OB",
