@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28b554307c75aadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 temp/inbox/《更重要的是过好今天》摘录及感受.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240518_20th_Sat.md",
+                "file": "00 temp/inbox/《更重要的是过好今天》摘录及感受.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240518_20th_Sat.md",
+                "file": "00 temp/inbox/《更重要的是过好今天》摘录及感受.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240518_20th_Sat.md"
+                "file": "00 temp/inbox/《更重要的是过好今天》摘录及感受.md"
               }
             }
           },
@@ -155,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79107b3ada3731c6",
+  "active": "28b554307c75aadd",
   "lastOpenFiles": [
-    "01 project/diary/20240517_20th_Fri.md",
     "01 project/diary/20240518_20th_Sat.md",
+    "00 temp/inbox/《更重要的是过好今天》摘录及感受.md",
+    "01 project/diary/20240517_20th_Fri.md",
     "00 temp/inbox/比赛守则.md",
     "01 project/diary/20240516_20th_Thu.md",
     "Untitled",
@@ -185,7 +199,6 @@
     "04 archieve/DSA复习/查找（重点笔记）.md",
     "04 archieve/DSA复习/排序（重点笔记）.md",
     "04 archieve/DSA复习/三种表达式.md",
-    "04 archieve/DSA复习/temp如何取？.md",
     "01 project/use English",
     "Untitled.canvas",
     "01 project/learn OB",
