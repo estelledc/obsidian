@@ -11,8 +11,12 @@
             "id": "015109d6e7426e14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01 project/diary/20240520_21st_Mon.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,12 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9fb585402b6a630e",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01 project/diary/20240520_21st_Mon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01 project/diary/20240520_21st_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01 project/diary/20240520_21st_Mon.md"
+              }
             }
           },
           {
@@ -151,6 +159,7 @@
   "active": "015109d6e7426e14",
   "lastOpenFiles": [
     "01 project/diary/20240519_21st_Sun.md",
+    "01 project/diary/20240520_21st_Mon.md",
     "00 temp/inbox/《布鲁克林有棵树》摘录.md",
     "00 temp/inbox/《更重要的是过好今天》摘录及感受.md",
     "01 project/diary/20240518_20th_Sat.md",
@@ -178,7 +187,6 @@
     "01 project/idea-app",
     "01 project/idea-app/看看自然——西藏之景.md",
     "04 archieve/DSA复习/树和二叉树（重点笔记）.md",
-    "04 archieve/DSA复习/查找（重点笔记）.md",
     "01 project/use English",
     "Untitled.canvas",
     "01 project/learn OB",
