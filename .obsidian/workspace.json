@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240520_21st_Mon.md",
+                "file": "01 project/diary/20240521_21st_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240520_21st_Mon.md",
+                "file": "01 project/diary/20240521_21st_Tue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240520_21st_Mon.md",
+                "file": "01 project/diary/20240521_21st_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240520_21st_Mon.md"
+                "file": "01 project/diary/20240521_21st_Tue.md"
               }
             }
           },
@@ -158,11 +158,15 @@
   },
   "active": "015109d6e7426e14",
   "lastOpenFiles": [
+    "01 project/diary/20240520_21st_Mon.md",
+    "01 project/diary/20240521_21st_Tue.md",
+    "00 temp/inbox/第四次冥想日记.md",
+    "00 temp/inbox/第三次冥想日记.md",
+    "00 temp/inbox/如何培养系统思维？.md",
     "00 temp/inbox/第二次冥想日记.md",
     "00 temp/inbox/科学与艺术.md",
     "00 temp/inbox/如何放下过去痛苦的回忆？.md",
     "01 project/diary/20240519_21st_Sun.md",
-    "01 project/diary/20240520_21st_Mon.md",
     "00 temp/inbox/《布鲁克林有棵树》摘录.md",
     "00 temp/inbox/《更重要的是过好今天》摘录及感受.md",
     "01 project/diary/20240518_20th_Sat.md",
@@ -181,10 +185,6 @@
     "01 project/diary/20240513_20th_Mon.md",
     "00 temp/inbox/失眠app.md",
     "01 project/diary/20240512_20th_Sun.md",
-    "04 archieve/DSA复习/栈的奥秘：生成第二个元素为2的所有可能序列.md",
-    "01 project/diary/20240511_19th_Sat.md",
-    "00 temp/inbox/方向与步骤.md",
-    "01 project/idea-app/告别尴尬！这款APP让你秒变交流大师🗣️📱.md",
     "04 archieve/DSA复习",
     "01 project/idea-app",
     "01 project/use English",
