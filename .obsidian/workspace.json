@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240524_21st_Fri.md",
+                "file": "01 project/diary/20240525_21st_Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240524_21st_Fri.md",
+                "file": "01 project/diary/20240525_21st_Sat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240524_21st_Fri.md",
+                "file": "01 project/diary/20240525_21st_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240524_21st_Fri.md"
+                "file": "01 project/diary/20240525_21st_Sat.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "015109d6e7426e14",
   "lastOpenFiles": [
-    "01 project/diary/20240523_21st_Thu.md",
     "01 project/diary/20240524_21st_Fri.md",
+    "01 project/diary/20240525_21st_Sat.md",
+    "01 project/diary/20240523_21st_Thu.md",
     "01 project/diary/20240522_21st_Wed.md",
     "01 project/冥想日记/第一次冥想日记.md",
     "01 project/第五次冥想日记.md",
@@ -184,7 +185,6 @@
     "00 temp/inbox/快乐和健康.md",
     "01 project/diary/20240515_20th_Wed.md",
     "01 project/diary/20240514_20th_Tue.md",
-    "01 project/diary/20240509_19th_Thu.md",
     "04 archieve/DSA复习",
     "01 project/idea-app",
     "01 project/use English",
