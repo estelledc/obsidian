@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 project/diary/20240531_22nd_Fri.md",
+                "file": "01 project/diary/20240602_23rd_Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 project/diary/20240531_22nd_Fri.md",
+                "file": "01 project/diary/20240602_23rd_Sun.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 project/diary/20240531_22nd_Fri.md",
+                "file": "01 project/diary/20240602_23rd_Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 project/diary/20240531_22nd_Fri.md"
+                "file": "01 project/diary/20240602_23rd_Sun.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "889c2ad38688bb3f",
   "lastOpenFiles": [
-    "00 temp/inbox/如何找到自己想做的事情.md",
     "01 project/diary/20240531_22nd_Fri.md",
+    "01 project/diary/20240602_23rd_Sun.md",
+    "00 temp/inbox/如何找到自己想做的事情.md",
     "01 project/建站/目标.md",
     "01 project/diary/20240527_22nd_Mon.md",
     "01 project/建站",
@@ -197,7 +198,6 @@
     "00 temp/inbox/《更重要的是过好今天》摘录及感受.md",
     "01 project/diary/20240518_20th_Sat.md",
     "01 project/diary/20240517_20th_Fri.md",
-    "00 temp/inbox/比赛守则.md",
     "Untitled",
     "04 archieve/DSA复习",
     "01 project/idea-app",
