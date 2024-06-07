@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "diary_TEMPLATE",
+      "path": "00 temp/templates/diary_TEMPLATE.md"
+    },
+    {
       "basename": "20240602_23rd_Sun",
       "path": "01 project/diary/20240602_23rd_Sun.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "diary_TEMPLATE",
-      "path": "00 temp/templates/diary_TEMPLATE.md"
     },
     {
       "basename": "我为我现在付出的人生有意义吗？",
