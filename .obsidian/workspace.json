@@ -11,8 +11,10 @@
             "id": "ae852e874be7f1da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
             }
           }
         ]
@@ -115,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "00 temp/inbox/Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,7 +149,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80cfcf600260555d",
+  "active": "ae852e874be7f1da",
   "lastOpenFiles": [
     "00 temp/inbox/Untitled.md",
     "01 project/建站/目标.md",
