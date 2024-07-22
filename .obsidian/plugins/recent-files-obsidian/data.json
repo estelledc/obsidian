@@ -5,6 +5,10 @@
       "path": "00 temp/inbox/Untitled.md"
     },
     {
+      "basename": "目标",
+      "path": "01 project/建站/目标.md"
+    },
+    {
       "basename": "20240607_23rd_Fri",
       "path": "01 project/diary/20240607_23rd_Fri.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "如何找到自己想做的事情",
       "path": "00 temp/inbox/如何找到自己想做的事情.md"
-    },
-    {
-      "basename": "目标",
-      "path": "01 project/建站/目标.md"
     },
     {
       "basename": "20240527_22nd_Mon",
